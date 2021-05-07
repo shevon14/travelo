@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195143958658",
+    "project_id": "travel-network-app",
+    "storage_bucket": "travel-network-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195143958658:android:84c50699e136a36551b49b",
+        "android_client_info": {
+          "package_name": "shevonsoyza.travelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195143958658-0ftqm3evra8ebgmhuebdkvbp5vhgublk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYPSGLoWMyhTvCqO57nZ6zOF6NQe-1Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195143958658-0ftqm3evra8ebgmhuebdkvbp5vhgublk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
